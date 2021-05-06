@@ -7,7 +7,7 @@
     "lib": "lib"
   },
   "dependencies": {
-    "sanitize-html": "^1.20.1"
+    "sanitize-html": "^2.3.2"
   },
   "devDependencies": {},
   "scripts": {
